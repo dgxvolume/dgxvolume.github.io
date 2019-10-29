@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<style>
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+</style>
+
+<div class="center">
+  <h1 itemprop="name headline">{{ page.title }}</h1>
+</div>
+<div class="center">
+  <p class="meta">{{ page.date | date_to_string }}</p>
+</div>
+
+<div class="post" itemprop="articleBody"> {{ content }} </div>  
+
+<!-- htmlwidgets dependencies --> 
+{% if page.htmlwidgets %}
+{% for html_dep in site.static_files %}
+  {% if html_dep.path contains 'htmlwidgets_deps/' %}
+    {% assign start = "<script src=" | append: {{site.baseurl}} %}
+    {{html_dep.path | prepend: start | append: "></script>" }}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
