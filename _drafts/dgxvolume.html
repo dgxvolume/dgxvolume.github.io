@@ -1,0 +1,107 @@
+---
+title: "DGX"
+output: html_document
+layout: post
+date: 'CURRENTDATE'
+comments: true
+htmlwidgets: true
+description: 
+---
+<style>
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+</style>
+
+<!--
+<div class="center">
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2739" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="false" data-stats="USD" data-statsticker="false"></div>
+</div>
+<br>
+-->
+
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101193492);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101193492ns.gif" /></p></noscript>
+
+<div class="center">
+  <p>DGX on-chain volume. Data taken from etherscan.</p>
+</div>
+
+<div class="center">
+  <h2>DGX Total Supply: TOTALSUPPLY ($TOTALSUPPLYUSDm)</h2>
+  <h2>DGX Circulating Supply: DGXSOLD ($DGXSOLDUSDm)</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-177" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-177">{"x":{"data":[{"type":"scatter","inherit":false,"x":[XRANGE],"y":[YRANGE],"mode":"lines","name":"Total Supply"},{"type":"scatter","inherit":false,"x":[XRANGE],"y":[DIGIXVRANGE],"mode":"lines","name":"Circulating Supply"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Total Supply (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>Fees Collected: FEESCOLLECTED ($FEESCOLLECTEDUSD)</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-179" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-179">{"x":{"data":[{"type":"scatter","inherit":false,"x":[XRANGE],"y":[FEERANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Fees Collected (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+
+<div class="center">
+  <h2>Total Volume (accumulated)</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-180" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-180">{"x":{"data":[{"type":"scatter","inherit":false,"x":[XRANGE],"y":[TVRANGE],"mode":"lines","name":"Total"},{"type":"scatter","inherit":false,"x":[XRANGE],"y":[KYBERVRANGE],"mode":"lines","name":"Kyber"},{"type":"scatter","inherit":false,"x":[XRANGE],"y":[UNISWAPVRANGE],"mode":"lines","name":"Uniswap"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Total Volume (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>Daily Volume</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-183" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-183">{"x":{"data":[{"type":"bar","inherit":false,"x":[XRANGE],"y":[DVRANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Daily Volume (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>Weekly Volume</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-184" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-184">{"x":{"data":[{"type":"bar","inherit":false,"x":[WEEKLYDATE],"y":[WVRANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Weekly Volume (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>Monthly (30 day) Volume</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-185" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-185">{"x":{"data":[{"type":"bar","inherit":false,"x":[MONTHLYDATE],"y":[MVRANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"30 Day Volume (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>Quarterly (90 day) Volume</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-186" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-186">{"x":{"data":[{"type":"bar","inherit":false,"x":[QUARTERLYDATE],"y":[QVRANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"90 Day Volume (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+<div class="center">
+  <h2>DGX Recasted: TOTALRECASTED grams Gold</h2>
+</div>
+
+<div class="center">
+<!--html_preserve--><div id="htmlwidget-1" style="width:auto;height:250px;" class="center plotly html-widget"></div>
+  <script type="application/json" data-for="htmlwidget-1">{"x":{"data":[{"type":"scatter","inherit":false,"x":[XRANGE],"y":[RECASTRANGE],"mode":"lines"}],"layout":{"xaxis":{"title":"Date"},"yaxis":{"title":"Recasted (DGX)"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+</div>
+
+

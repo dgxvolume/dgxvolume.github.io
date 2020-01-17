@@ -1,0 +1,555 @@
+
+
+*******************************************************************************
+Fri Dec  7 11:28:19 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:28:29 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:31:03 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:32:04 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:34:00 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:34:58 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:35:17 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:36:58 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:37:35 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:38:57 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:39:14 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:39:28 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:39:33 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:39:47 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Fri Dec  7 11:40:28 2018
+
+
+FIT:    data read from 'totalsupply.dat'
+        format = z
+        #datapoints = 256
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x + c
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'c' is zero.
+iter      chisq       delta/lim  lambda   a             c            
+   0 7.7307808600e+11   0.00e+00  1.04e+03    1.000000e+01   1.000000e-30
+   6 1.3019901580e+10  -3.06e-07  1.04e-03    2.928753e+02   1.425215e+04
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.30199e+10
+rel. change during last iteration : -3.06189e-12
+
+degrees of freedom    (FIT_NDF)                        : 254
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7159.57
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.12595e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 292.875          +/- 6.055        (2.067%)
+c               = 14252.1          +/- 892.3        (6.261%)
+
+correlation matrix of the fit parameters:
+                a      c      
+a               1.000 
+c              -0.865  1.000 
