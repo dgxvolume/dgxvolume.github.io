@@ -1,0 +1,9 @@
+zeroaddr = '0x0000000000000000000000000000000000000000'  # 0x0 (minting)
+txfeeaddr = '0x00a55973720245819ec59c716b7537dac5ed4617'.lower()  # tx fee collector
+digixaddr = '0xd5be9efcc0fbea9b68fa8d1af641162bc92e83f2'.lower()  # digix
+recastfeeaddr = '0x26cab6888d95cf4a1b32bd37d4091aa0e29e7f68'.lower()  # recast fee collector
+kryptonoaddr = '0xe8a0e282e6a3e8023465accd47fae39dd5db010b'.lower()  # kryptono
+kyber = ['0x91a502C678605fbCe581eae053319747482276b9'.lower(),'0x964f35fae36d75b1e72770e244f6595b68508cf5'.lower() ,'0x9ae49c0d7f8f9ef4b864e004fe86ac8294e20950'.lower(),'0x818E6FECD516Ecc3849DAf6845e3EC868087B755'.lower()]
+uniswap = '0xb92dE8B30584392Af27726D5ce04Ef3c4e5c9924'.lower()  # uniswap DGX 
+DigixDAO = '0x1f5b7179a643570effb4da05a0ca0760b36ceed3'.lower()  # DigixDAO contract address (where DGD is locked)   
+DGDcontract = '0xe0b7927c4af23765cb51314a0e0521a9645f0e2a'.lower()  # DGD contract address
