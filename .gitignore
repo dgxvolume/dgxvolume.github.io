@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-metadata
+log
+dgxvolume_scripts/__pycache__
+*.del
